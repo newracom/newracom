@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **newracom/newracom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Welcome to Newracom’s site on GitHub
+
+Newracom is the world's leading fabless semiconductor company for Wi-Fi HaLow. We are partnered with numerous world leading semiconductor companies, consumer electronic device manufactures, and IoT/ M2M device manufactures to provide innovative Wi-Fi HaLow connectivity by customizing WLAN functionalities into business systems for high profitability while being cost effective.
