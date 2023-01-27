@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 ### Welcome to Newracom’s site on GitHub
 
 Newracom is the world's leading fabless semiconductor company for Wi-Fi HaLow. We are partnered with numerous world leading semiconductor companies, consumer electronic device manufactures, and IoT/ M2M device manufactures to provide innovative Wi-Fi HaLow connectivity by customizing WLAN functionalities into business systems for high profitability while being cost effective.
+
+Apart from the development of groundbreaking products, Newracom has strived to continuously achieve significant accomplishments to further bolster our leadership in technology and create permanent footprints in the foundation of various Wi-Fi development capabilities. Some of our greatest honors are as follows:
+
+- World’s first Release of long range and low power Wi-Fi SoC based on IEEE 802.11ah (Oct. 2018)
+- World’s top technical contributor to IEEE 802.11ax standards (2014-2018)
+- Awarded “Best Wi-Fi IOT Product” in Wi-Fi Now 2019 (Nov. 2019)
+- Awarded “Best Wi-Fi IOT Startup” in Wi-Fi Now 2021 (Dec. 2021)
+- World’s first Release of IEEE 802.11ah Wi-Fi SoC in TVWS (Mar. 2022)
