@@ -27,7 +27,7 @@ Apart from the development of groundbreaking products, Newracom has strived to c
 
 ### Software Release Plan for NRC7292 (as of Jun. 2023)
 
-![SW_Release_Plan_NRC7292_HM_Jun2023](https://github.com/newracom/newracom/assets/65512805/b15627c9-f555-4988-9cc6-67159e8db5d8)
-![SW_Release_Plan_NRC7292_SDK_Jun2023](https://github.com/newracom/newracom/assets/65512805/fd072fe4-925c-4add-af92-a6084a0ab991)
+![SW_Release_Plan_NRC7292_HM_Jun2023](https://github.com/newracom/newracom/assets/65512805/3dd5fe5f-60cf-43b3-ab8a-d7a29f6e862e)
+![SW_Release_Plan_NRC7292_SDK_Jun2023](https://github.com/newracom/newracom/assets/65512805/42ec6eb7-4f1e-4b83-a04f-0b239d5e5e92)
 
-[Software Release Plan for NRC7292 (Jun 2023).pdf](https://github.com/newracom/newracom/files/11876463/Software.Release.Plan.for.NRC7292.Jun.2023.pdf)
+[Software Release Plan for NRC7292 (Jun 2023).pdf](https://github.com/newracom/newracom/files/11884726/Software.Release.Plan.for.NRC7292.Jun.2023.pdf)
