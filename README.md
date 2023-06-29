@@ -25,9 +25,9 @@ Apart from the development of groundbreaking products, Newracom has strived to c
 - Awarded “Best Wi-Fi IOT Startup” in Wi-Fi Now 2021 (Dec. 2021)
 - World’s first Release of IEEE 802.11ah Wi-Fi SoC in TVWS (Mar. 2022)
 
-### Software Release Plan for NRC7292 (as of Jun. 2023)
+### Software Release Plan for NRC7292
 
-![SW_Release_Plan_NRC7292_HM_Jun2023](https://github.com/newracom/newracom/assets/65512805/3dd5fe5f-60cf-43b3-ab8a-d7a29f6e862e)
-![SW_Release_Plan_NRC7292_SDK_Jun2023](https://github.com/newracom/newracom/assets/65512805/42ec6eb7-4f1e-4b83-a04f-0b239d5e5e92)
+![SW_Release_Plan_NRC7292_HM](https://github.com/newracom/newracom/assets/65512805/15f47a3f-c550-48eb-aaa6-64e7428e82df)
+![SW_Release_Plan_NRC7292_SDK](https://github.com/newracom/newracom/assets/65512805/52515d00-46ee-47ed-bf12-ae8613ab8e03)
 
-[Software Release Plan for NRC7292 (Jun 2023).pdf](https://github.com/newracom/newracom/files/11884726/Software.Release.Plan.for.NRC7292.Jun.2023.pdf)
+[Software Release Plan for NRC7292.pdf](https://github.com/newracom/newracom/files/11908161/Software.Release.Plan.for.NRC7292.pdf)
