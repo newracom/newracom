@@ -26,7 +26,7 @@ Apart from the development of groundbreaking products, Newracom has strived to c
 - World’s first Release of IEEE 802.11ah Wi-Fi SoC in TVWS (Mar. 2022)
 
 ### Software Release Plan for NRC7292
-> **Note**
+> **Notice**
 > (2/15/2024) The official release dates for 2024 will soon be updated.
 
 ![SW_Release_Plan_NRC7292_HM](https://github.com/newracom/newracom/assets/65512805/15f47a3f-c550-48eb-aaa6-64e7428e82df)
