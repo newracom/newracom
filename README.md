@@ -25,11 +25,7 @@ Apart from the development of groundbreaking products, Newracom has strived to c
 - Awarded “Best Wi-Fi IOT Startup” in Wi-Fi Now 2021 (Dec. 2021)
 - World’s first Release of IEEE 802.11ah Wi-Fi SoC in TVWS (Mar. 2022)
 
-### Software Release Plan for NRC7292
+### Software Release Plan for NRC7292 and NRC7394
 > **Notice**
-> (2/15/2024) The official release dates for 2024 will soon be updated.
-
-![SW_Release_Plan_NRC7292_HM](https://github.com/newracom/newracom/assets/65512805/15f47a3f-c550-48eb-aaa6-64e7428e82df)
-![SW_Release_Plan_NRC7292_SDK](https://github.com/newracom/newracom/assets/65512805/52515d00-46ee-47ed-bf12-ae8613ab8e03)
-
-[Software Release Plan for NRC7292.pdf](https://github.com/newracom/newracom/files/11908161/Software.Release.Plan.for.NRC7292.pdf)
+> 
+> Hotfix packages for the enhanced rate control scheme are scheduled for release between late March and early April 2024. The forthcoming official release is planned for Q2/2024, with a detailed schedule to be announced shortly.
