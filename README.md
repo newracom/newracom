@@ -28,4 +28,4 @@ Apart from the development of groundbreaking products, Newracom has strived to c
 ### Software Release Plan for NRC7292 and NRC7394
 > **Notice**
 > 
-> Hotfix packages for the enhanced rate control scheme are scheduled for release between late March and early April 2024. The forthcoming official release is planned for Q2/2024, with a detailed schedule to be announced shortly.
+> Hotfix packages for the enhanced rate control scheme are scheduled for release between late March and early April 2024. The forthcoming official release is planned for 2Q/2024, with a detailed schedule to be announced shortly.
